@@ -2,6 +2,7 @@
 title: "Coffeescript Tidbit: '?' vs 'or'"
 path: "/coffescript-tidbit"
 tags: ["Coffescript"]
+featuredImage: "./image1.jpg"
 excerpt: A little snippet to understand coffescript.
 created: 2017-07-22
 updated: 2017-07-22

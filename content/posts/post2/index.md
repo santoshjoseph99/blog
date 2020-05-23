@@ -2,6 +2,7 @@
 title: "ES6 Import Statement...How Annoying"
 path: "/es6-import"
 tags: ["javascript", "es6"]
+featuredImage: "./image2.jpg"
 excerpt: The most annoying thing about imports in ES6.
 created: 2017-07-29
 updated: 2017-07-29
