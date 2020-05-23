@@ -1,38 +1,36 @@
 module.exports = {
   siteMetadata: {
-    title: `nehalem-starter`,
-    siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby starter for nehalem`,
+    title: `Type Errors and More`,
+    siteUrl: `https://www.typeerror.net`,
+    description: `programming...`,
     topics: [],
     menu: [
       {
-        name: 'Home',
+        name: 'Blog',
         path: '/'
       },
       {
-        name: 'Example',
-        path: '/page'
+        name: 'Resume',
+        path: '/resume'
       },
     ],
     footerMenu: [
       {
-        name: 'Example',
-        path: '/page'
+        name: 'Resume',
+        path: '/resume'
       },
     ],
     search: true,
     author: {
-      name: `nehalem`,
-      description: `I'm <strong>nehalem</strong>, a Gatsby theme by 
-        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
-        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
+      name: `santoshjoseph99`,
+      description: ``,
       social: {
         facebook: ``,
-        twitter: `https://twitter.com/nehalist`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+        twitter: `https://twitter.com/SantoshJoseph12`,
+        linkedin: `https://www.linkedin.com/in/santoshjoseph99/`,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/nehalist`,
+        github: `https://github.com/santoshjoseph99`,
         twitch: ``
       }
     }
@@ -42,8 +40,8 @@ module.exports = {
       resolve: `@nehalist/gatsby-theme-nehalem`,
       options: {
         manifest: {
-          name: `nehalem - A Gatsby theme`,
-          short_name: `nehalem`,
+          name: `type error`,
+          short_name: `TypeError`,
           start_url: `/`,
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
